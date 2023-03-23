@@ -11,6 +11,16 @@ const theme = extendTheme({
     heading: `'Inter', sans-serif`,
     body: `'Inter', sans-serif`,
   },
+  FormLabel: {
+    baseStyle: {
+      fontWeight: 'bold',
+    }
+  },
+  Input:{
+    baseStyle:{
+      marginBottom: '10',
+    }
+  }
 })
 
 ReactDOM.createRoot(document.getElementById('root')).render(
