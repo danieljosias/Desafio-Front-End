@@ -1,13 +1,12 @@
 import Contacts from "./pages"
 
-export default function App() {
+const App = () => {
   return (
     <>
       <Contacts/>      
     </>
   )
 }
-
-
+export default App
 
 
