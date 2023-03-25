@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Flex, Heading, Text, FormControl, FormLabel, Input, Textarea, Button, HStack, VStack, Stack } from '@chakra-ui/react'
+import { Box, Flex, Heading, Text, FormControl, FormLabel, Input, Textarea, Button, VStack, Stack } from '@chakra-ui/react'
 import { EmailIcon, PhoneIcon  } from '@chakra-ui/icons'
 import { Icon } from '@chakra-ui/react'
 import { MdLocationOn } from 'react-icons/md' 
