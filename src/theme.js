@@ -1,6 +1,4 @@
 import { extendTheme } from '@chakra-ui/react'
-import '@fontsource/Inter/800.css'
-import '@fontsource/Inter/500.css'
 
 const breakpoints = {
   sm: '375px', 
