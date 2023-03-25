@@ -12,7 +12,7 @@
 #### O desafio constitui-se em desenvolver uma tela front-end (versão desktop, mobile e responsivo) utilizando os elementos do Chakra UI e adaptando o estilo para corresponder ao layout.
 
 
-Visão geral do projeto, um pouco das tecnologias usadas.
+A tecnologia utilizada:
 
 - [Chakra UI](https://chakra-ui.com/)
 
