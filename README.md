@@ -4,7 +4,7 @@
 
 - [Visão Geral](#1-visão-geral)
 - [Início Rápido](#2-início-rápido)
-- [Instalando Dependências](#21-instalando-dependências)
+- [Instalando Dependências](#21-instalando-dependências) 
 ---
 
 ## 1. Visão Geral
