@@ -4,7 +4,6 @@ import '@fontsource/Inter/500.css'
 
 const breakpoints = {
   sm: '375px', 
-  md: '48em', 
   lg: '1360px', 
   xl: '1440px', 
 }
