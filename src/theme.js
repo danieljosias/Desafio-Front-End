@@ -17,7 +17,7 @@ const Theme = extendTheme({
     components:{
       FormLabel: {
         baseStyle: {
-            color: '#2D3748',
+          color: '#2D3748',
         }
       }
     },
