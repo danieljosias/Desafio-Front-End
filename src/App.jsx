@@ -1,9 +1,9 @@
-import Contacts from "./pages/Contacts"
+import Routes from './routes'
 
 const App = () => {
   return (
     <>
-      <Contacts/>      
+      <Routes/>      
     </>
   )
 }

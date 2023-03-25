@@ -7,7 +7,7 @@ import Theme from '../../theme'
 
 const Contacts = () => {
   return (
-    <Box bg='#F7FAFC' h='100%' boxShadow='0px 1px 2px #000000 0px 1px 2px #000000' display={{lg:'flex',xl:'flex'}} >
+    <Box bg='#F7FAFC' boxShadow='0px 1px 2px #000000 0px 1px 2px #000000' display={{lg:'flex',xl:'flex'}} >
       <Box>
         {Theme.breakpoints.xl && 
           <Box px='50px' pt='30px'>
